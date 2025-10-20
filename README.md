@@ -24,18 +24,18 @@ This folder contains the data used in the thesis, as well as the scripts to deri
 | Column | Description |
 |:--------|:-------------|
 | `base` | 2020 output (tonnes) |
-| `ssp126`, `ssp585` | 2045–2050 average output (tonnes) under SSP1–2.6 and SSP5–8.5 |
-| `ssp126_diff`, `ssp585_diff` | Change from 2020 to 2045–2050 (tonnes) |
-| `ssp126_ratio`, `ssp585_ratio` | Change from 2020 to 2045–2050 (%) |
+| `ssp126`, `ssp585` | 2045–2050 avg output (tonnes) under SSP1–2.6 and SSP5–8.5 |
+| `ssp126_diff`, `ssp585_diff` | Change from 2020 to 2045–2050 avg (tonnes) |
+| `ssp126_ratio`, `ssp585_ratio` | Change from 2020 to 2045–2050 avg (%) |
 
 #### **Supply–Demand Data**
 
 | Column | Description |
 |:--------|:-------------|
 | `food_req_cap` | 2020 food demand (kg/capita) |
-| `food_gap_cap` | 2045–2050 supply–demand gap (kg/capita) |
-| `food_gap_ratio` | 2045–2050 supply–demand gap (%) |
+| `food_gap_cap` | 2045–2050 avg supply–demand gap (kg/capita) |
+| `food_gap_ratio` | 2045–2050 avg supply–demand gap (%) |
 | `food_req_total` | 2020 total food demand (tonnes) |
-| `food_gap_total` | Change in total food demand, 2020–2050 (tonnes) |
-| `pop` | 2045–2050 population (capita) |
-| `pop_ratio` | Share of total 2045–2050 population (%) |
+| `food_gap_total` | Change in total food demand, 2020 vs 2045-2050 avg (tonnes) |
+| `pop` | 2045–2050 avg population (capita) |
+| `pop_ratio` | Share of 2045–2050 avg population (%) |
